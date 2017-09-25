@@ -24,3 +24,19 @@ function ninjaBabySelector() {
   return ninBaby;
 
 }
+
+function divSelector() {
+
+  var pic = $('.pics');
+
+  return pic;
+  
+}
+
+function firstListItem() {
+
+  var firstChild = $('div ul:first-child');
+
+  return firstChild;
+  
+}
