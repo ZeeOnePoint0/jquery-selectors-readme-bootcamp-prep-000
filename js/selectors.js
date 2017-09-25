@@ -12,5 +12,5 @@ function paragraphSelector() {
 function lastImageSelector() {
 
   var imgSel = $('div:last');
-  
+
 }
