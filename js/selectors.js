@@ -30,7 +30,7 @@ function divSelector() {
   var pic = $('.pics');
 
   return pic;
-  
+
 }
 
 function firstListItem() {
@@ -38,5 +38,5 @@ function firstListItem() {
   var firstChild = $('div ul:first-child');
 
   return firstChild;
-  
+
 }
