@@ -13,4 +13,6 @@ function lastImageSelector() {
 
   var imgSel = $('div:last');
 
+  return imgSel;
+
 }
