@@ -35,7 +35,7 @@ function divSelector() {
 
 function firstListItem() {
 
-  var firstChild = $('div ul:first-child');
+  var firstChild = $('ul:first-child');
 
   return firstChild;
 
